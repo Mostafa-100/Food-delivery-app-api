@@ -1,6 +1,6 @@
 # Food Delivery App
 
-This is a **Food Delivery App** built for learning purposes and to be added to my portfolio. It is not a real commercial project but demonstrates how a food ordering system works.
+This is the backend side of **Food Delivery App** built for learning purposes and to be added to my portfolio. It is not a real commercial project but demonstrates how a food ordering system works.
 
 ## Features
 
